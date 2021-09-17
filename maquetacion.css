@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(204, 203, 204);
+}
+h1{
+    text-align: center;
+}
+h2{
+    background-color: gray;
+    color:white;
+}
+p{
+    text-align: justify;
+}
+
+#sp1{
+    color:orange;
+
+}
+
+#sp2{
+    background-color: white;
+    
+}
+img {
+    height: 100px;
+    width: 100px;
+}
